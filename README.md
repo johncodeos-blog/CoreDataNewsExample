@@ -1,5 +1,5 @@
 ![logo](https://i.imgur.com/Dv73hCk.png)
 # CoreDataNewsExample
-Use Core Data in iOS using Swift
+Save, Fetch, Update and Delete data from Core Data using Swift
 
 https://johncodeos.com/how-to-use-core-data-in-ios-using-swift/
